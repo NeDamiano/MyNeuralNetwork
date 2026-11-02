@@ -1,0 +1,11 @@
+bin/
+*.class
+
+doc/
+
+*.pdf
+
+.idea/
+*.iml
+.vscode/
+.metadata/

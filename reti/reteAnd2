@@ -1,0 +1,2 @@
+nome=ReteAnd2
+layer={ nome=layer activationFunction=Step inputUnits=2 outputUnits=1 }
